@@ -2,7 +2,7 @@
 
 Truthfully, we are all one person who suffers from an identity disorder. I am an IT student.
 
-Four of us know how to code.
+Three of us know how to code.
 
 However, we specialize in different aspects.
 
