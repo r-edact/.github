@@ -13,4 +13,4 @@ While Ryku [@rykuzu](https://github.com/rykuzu) works with scripting languages: 
 
 Runo [@shinminase](https://github.com/shinminase) handles HTML5, CSS, and markup languages. 
 
-## email me at 7633x14@gmail.com
+## looking to hire me ? email me at 7633x14@gmail.com
