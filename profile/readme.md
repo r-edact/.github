@@ -1,6 +1,6 @@
 ## We are R-EDACTED.
 
-Truthfully, we are all one person who suffers from an identity disorder. I am an IT student.
+Truthfully, we are all one person who suffers from an disorder. I am an IT student.
 
 Three of us know how to code.
 
