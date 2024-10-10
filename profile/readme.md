@@ -7,9 +7,9 @@ Three of us know how to code.
 However, we specialize in different aspects.
 
 
-Graham [@gutsnroses](https://github.com/gutsnroses) is proficient in object-based programming such as: C++, Ruby and Python.
+Graham [@gutsnroses](https://github.com/gutsnroses) is proficient in object-based programming such as: C++, Java, Ruby and Python.
 
-While Ryku [@rykuzu](https://github.com/rykuzu) works with scripting languages: Java and Node.js
+While Ryku [@rykuzu](https://github.com/rykuzu) works with scripting languages: Javascript and Node.js
 
 Runo [@shinminase](https://github.com/shinminase) handles HTML5, CSS, and markup languages. 
 
